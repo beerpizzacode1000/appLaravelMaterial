@@ -22,14 +22,7 @@
                     <a href="javascript:void(0)" class="btn btn-raised btn-danger">Danger</a>
                     <a href="javascript:void(0)" class="btn btn-raised btn-link">Link</a>
                 </div>
-                <div class="text-center">
-                    <a href="javascript:void(0)" class="btn btn-default btn-fab"><i class="material-icons">grade</i></a>
-                    <a href="javascript:void(0)" class="btn btn-primary btn-fab"><i class="material-icons">grade</i></a>
-                    <a href="javascript:void(0)" class="btn btn-success btn-fab"><i class="material-icons">grade</i></a>
-                    <a href="javascript:void(0)" class="btn btn-info btn-fab"><i class="material-icons">grade</i></a>
-                    <a href="javascript:void(0)" class="btn btn-warning btn-fab"><i class="material-icons">grade</i></a>
-                    <a href="javascript:void(0)" class="btn btn-danger btn-fab"><i class="material-icons">grade</i></a>
-                 </div>
+                
                 
 			</div>
 		</div>
