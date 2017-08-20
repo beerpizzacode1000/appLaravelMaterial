@@ -17,11 +17,7 @@
     <input type="password" class="form-control" id="ejemplo_password_2" 
            placeholder="Contraseña">
   </div>
-  <div class="checkbox">
-    <label>
-      <input type="checkbox"> No cerrar sesión
-    </label>
-  </div>
+ 
   <button type="submit" class="btn btn-default">Entrar</button>
 </form>
 </div>
